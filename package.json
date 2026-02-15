@@ -1,0 +1,18 @@
+{
+  "name": "agent-performance-profiler",
+  "version": "1.0.0",
+  "description": "APM-style tool showing which subagents consume the most tokens, execution time bottlenecks, and context utilization",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node examples/main.ts"
+  },
+  "keywords": ["ai", "agents", "performance", "profiling", "apm"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.0"
+  }
+}
