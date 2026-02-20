@@ -1,0 +1,14 @@
+{
+  "name": "agent-performance-profiler",
+  "version": "1.0.0",
+  "description": "Performance Profiler and Optimizer",
+  "private": true,
+  "workspaces": ["packages/*", "services/*", "integrations/*"],
+  "scripts": {
+    "test": "npm test --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  },
+  "keywords": ["agent", "ai", "profiling,bottleneck,optimize,monitor"],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT"
+}
