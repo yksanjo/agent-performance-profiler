@@ -1,5 +1,12 @@
 # agent-performance-profiler
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-performance-profiler/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-performance-profiler/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-performance-profiler)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-performance-profiler)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-performance-profiler)
+
 ## Detailed Description
 
 agent-performance-profiler is maintained as an industry-grade software project with production-ready engineering practices.  
